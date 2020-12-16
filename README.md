@@ -8,15 +8,9 @@ npm install
 ```
 
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Start the app in your browser. It will be something like LocalHost:8080; or something similar
 ```bash
 quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
 ```
 
 
