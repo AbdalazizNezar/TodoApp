@@ -10,6 +10,7 @@ npm install
 
 ### Start the app in your browser. It will be something like LocalHost:8080; or something similar
 ```bash
+cd todoapp
 quasar dev
 ```
 
