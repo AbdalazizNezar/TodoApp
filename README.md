@@ -8,6 +8,14 @@ An Todo-list app created By Abdul
 ```bash
 npm install
 ```
+You need to install Quasar and add it to your path, using...
+```npm
+$ npm install -g @quasar/cli
+```
+or...
+```yarn
+$ yarn global add @quasar/cli
+```
 You need to also have ffmpeg installed in order for the app to work
 
 ## Clone this repo or download it
