@@ -16,7 +16,7 @@ git clone https://github.com/abduldoesdev/TodoApp
 ```bash
 cd TodoApp
 ##Then Do...
-quasar dev > It might take some time to connect and open the tab. (If you waited for about 30 seconds and no new tab was opened, click enter in the terminal you run the code in)
+quasar dev ## It might take some time to connect and open the tab. (If you waited for about 30 seconds and no new tab was opened, click enter in the terminal you run the code in)
 ```
 
 
