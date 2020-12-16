@@ -15,6 +15,7 @@ git clone https://github.com/abduldoesdev/TodoApp
 ### Start the app in your browser. It will be something like LocalHost:8080; or something similar
 ```bash
 cd TodoApp
+##Then Do...
 quasar dev > It might take some time to connect and open the tab. (If you waited for about 30 seconds and no new tab was opened, click enter in the terminal you run the code in)
 ```
 
