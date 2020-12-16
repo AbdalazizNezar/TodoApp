@@ -8,6 +8,8 @@ An Todo-list app created By Abdul
 ```bash
 npm install
 ```
+You need to also have ffmpeg installed in order for the app to work
+
 ## Clone this repo or download it
 ```bash
 git clone https://github.com/abduldoesdev/TodoApp
