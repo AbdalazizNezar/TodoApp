@@ -44,7 +44,7 @@ npm install
 
 ## Clone this repo or download it (If you haven't already)
 ```bash
-git clone https://github.com/abduldoesdev/TodoApp
+git clone https://github.com/The-Cubical-Dev/TodoApp
 ```
 
 ## Download and open the app
