@@ -1,6 +1,6 @@
 # TodoApp (todoapp)
 
-An Todo-list app created By Abdul
+An Todo-list app created By Cubical
 
 ## For Windows....
 
