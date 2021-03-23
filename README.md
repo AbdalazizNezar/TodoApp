@@ -1,6 +1,6 @@
 # TodoApp (todoapp)
 
-An Todo-list app created By Cubical
+An Todo-list app created By Abdul
 
 ## For Windows....
 
@@ -44,7 +44,7 @@ npm install
 
 ## Clone this repo or download it (If you haven't already)
 ```bash
-git clone https://github.com/The-Cubical-Dev/TodoApp
+git clone https://github.com/AbdulN-Dev/TodoApp
 ```
 
 ## Download and open the app
